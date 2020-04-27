@@ -1,0 +1,4 @@
+flask
+flask_uploads
+gunicorn
+SpeechRecognition
